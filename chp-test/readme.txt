@@ -1,0 +1,1 @@
+java -jar interview_chp-1.0-jar-with-dependencies.jar <path to data file>
